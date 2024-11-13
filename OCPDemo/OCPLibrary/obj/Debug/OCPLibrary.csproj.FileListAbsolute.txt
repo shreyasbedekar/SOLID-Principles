@@ -1,0 +1,6 @@
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\OCPLibrary\bin\Debug\OCPLibrary.dll
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\OCPLibrary\bin\Debug\OCPLibrary.pdb
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.csproj.AssemblyReference.cache
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.dll
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\OCPLibrary\obj\Debug\OCPLibrary.pdb

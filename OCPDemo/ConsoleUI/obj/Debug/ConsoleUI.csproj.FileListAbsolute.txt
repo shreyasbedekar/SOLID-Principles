@@ -1,0 +1,10 @@
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\bin\Debug\OCPLibrary.dll
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\bin\Debug\OCPLibrary.pdb
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.Up2Date
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Projects\SOLID Principles\OCPDemo\OCPDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
